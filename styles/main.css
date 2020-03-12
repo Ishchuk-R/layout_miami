@@ -325,7 +325,8 @@ body {
   .header.menu-open {
     max-height: 100vh;
     overflow: hidden;
-    position: fixed; }
+    position: fixed;
+    width: 100%; }
     .header.menu-open .header__nav {
       -webkit-transform: translateX(0);
               transform: translateX(0); }
